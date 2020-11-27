@@ -16,6 +16,7 @@ I will be Pushing my Python3 coding examples here.<br/>
 *******
 
 <img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
+
 *******
 <!-- [GitHub](http://github.com) -->
 <!-- <img src="images/pylogo.png" width=100>
