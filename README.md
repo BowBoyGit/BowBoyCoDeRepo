@@ -23,7 +23,8 @@ I will be Pushing my Python3 coding examples here.<br/>
 
 
 'Code Box'
-"""python3
+"""python
+
 print('hello world')
 
 """
