@@ -13,7 +13,7 @@ I will be Pushing my Python3 coding examples here.<br/>
 * Django
 *******
 
-### 01 - The Basics
+<!-- ### 01 - The Basics -->
 
 <br/>
 
