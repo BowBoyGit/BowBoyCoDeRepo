@@ -5,7 +5,7 @@
 
 #### BowBoyGit-Python3-RePo
 Hello, 
- My name is BowBoy! I have a passion for coding. 
+ My name is BowBoy! I have a passion for coding.\n 
 I will be Pushing my Python3 coding example 
 here within the near future!
 
