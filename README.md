@@ -1,6 +1,7 @@
 # Welcome to BowBoyGit/BowBoyCoDeRepo
 *******
 <img src="images/compbowboy.png" width=300>
+
 #### BowBoyGit/BowBoyCoDeRepo
 Hello,<br/>
 My name is BowBoy! I have a passion for coding.<br/>
