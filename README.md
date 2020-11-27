@@ -25,7 +25,7 @@ print('hello world')
 ```
 *******
 
-<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
+<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/BowBoyCoDeRepo
 
 
 
