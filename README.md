@@ -1,15 +1,14 @@
 # Welcome to BowBoyGit/Python3
 
-#### BowBoyGit-Python3-RePo
-Hello, 
- My name is BowBoy! I have a passion for coding.<br/> 
+#### BowBoyGit/BowBoyCoDeRepo
+Hello,<br/>My name is BowBoy! I have a passion for coding.<br/> 
 I will be Pushing my Python3 coding examples 
 here.
 
 
-### Folders of Contents
+### 
 
-* Getting Started
+* 
 * gerbil feeders
 * toilet seats
 * electric heaters
