@@ -24,11 +24,11 @@ I will be Pushing my Python3 coding examples here.<br/>
 
 'Code Box'
 
-"""python
+```python
 
 print('hello world')
 
-"""
+```
 
 
 
