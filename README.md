@@ -1,4 +1,4 @@
-#### Welcome to BowBoyCode/Python3-Notes
+#### Welcome to BowBoyGit/Python3
 
 <img src="images/pylogo.png" width=100>
 <!-- ![](images/pylogo.png) -->
