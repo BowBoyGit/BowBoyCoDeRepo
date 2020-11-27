@@ -1,6 +1,7 @@
+<div align="center">
 # Welcome to BowBoyGit/BowBoyCoDeRepo
 *******
-<div align="center">
+
 <img src="images/compbowboy.png" width=300>
 
 #### BowBoyGit/BowBoyCoDeRepo
