@@ -10,13 +10,9 @@ here.
 ### I'm currently learning:
 
 * Python
-* gerbil feeders
-* toilet seats
-* electric heaters
-* Trash compactors
-* juice extractor
-* shower rods and water meters
-***
+* Django
+* 
+*****
 
 ### 01 - The Basics
 
