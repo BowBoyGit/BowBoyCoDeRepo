@@ -4,7 +4,7 @@
 <!-- ![](images/pylogo.png) -->
 
 
-http://github.com - automatic!
+http://github.com 
 
 
 
