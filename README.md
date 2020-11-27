@@ -1,6 +1,6 @@
 # Welcome to BowBoyGit/BowBoyCoDeRepo
 *******
-
+<img src="images/GitHub-Mark.png" width=30>
 #### BowBoyGit/BowBoyCoDeRepo
 Hello,<br/>
 My name is BowBoy! I have a passion for coding.<br/>
