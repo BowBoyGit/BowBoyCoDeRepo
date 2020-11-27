@@ -11,8 +11,7 @@ here.
 
 * Python
 * Django
-* 
-*****
+*******
 
 ### 01 - The Basics
 
