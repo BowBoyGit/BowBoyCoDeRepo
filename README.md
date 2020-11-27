@@ -13,9 +13,8 @@ I will be Pushing my Python3 coding examples here.<br/>
 * Django
 *******
 
-<!-- ### 01 - The Basics -->
 
-<br/>
+
 *******
 <img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
 *******
@@ -26,7 +25,7 @@ I will be Pushing my Python3 coding examples here.<br/>
 > I’ve always been more interested
 > in the future than in the past. -->
 
-
+<!-- ### 01 - The Basics -->
 
 
 
