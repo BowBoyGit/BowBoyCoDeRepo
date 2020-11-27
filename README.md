@@ -4,7 +4,7 @@
 
 
 #### BowBoyCoDeRePo
-### 01 - Basics
+### Table of Contents
 
 * allen wrenches
 * gerbil feeders
