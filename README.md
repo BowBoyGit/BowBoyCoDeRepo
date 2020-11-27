@@ -6,7 +6,7 @@
 
 https://github.com/BowBoyGit/Python3
 
-[GitHub](http://github.com)
+<!-- [GitHub](http://github.com) -->
 
 
 
