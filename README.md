@@ -4,7 +4,16 @@
 
 
 #### Project Description:
+### shopping list pt 1
 
+* allen wrenches
+* gerbil feeders
+* toilet seats
+* electric heaters
+* Trash compactors
+* juice extractor
+* shower rods and water meters
+***
 
 
 
