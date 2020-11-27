@@ -4,7 +4,8 @@
 Hello,<br/>My name is BowBoy! I have a passion for coding.<br/> 
 I will be Pushing my Python3 coding examples 
 here.
-
+###### refusing to bow to the inevitable
+— John O'Hara
 
 ### 
 
