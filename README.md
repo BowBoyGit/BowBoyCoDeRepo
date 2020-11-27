@@ -3,8 +3,8 @@
 
 
 
-#### Project Description:
-### shopping list pt 1
+#### BowBoyCoDeRePo
+### 01 - Basics
 
 * allen wrenches
 * gerbil feeders
