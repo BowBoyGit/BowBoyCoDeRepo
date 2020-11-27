@@ -6,7 +6,8 @@ Hello,<br/>
 My name is BowBoy! I have a passion for coding.<br/>
 I will be Pushing my Python3 coding examples here.<br/>
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:<br/>
-###### refusing to bow to the inevitable
+
+##### refusing to bow to the inevitable
 — John O'Hara
 *******
 
