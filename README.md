@@ -1,9 +1,10 @@
+:snake:
 # Welcome to BowBoyGit/Python3
 
 
 
 
-:snake:
+
 ### Python3 Basics
 
 
