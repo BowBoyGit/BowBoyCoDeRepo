@@ -1,8 +1,5 @@
 # Welcome to BowBoyGit/Python3
 
-<h3 style="color:#ff0000">Danger</h3>
-
-
 #### BowBoyGit-Python3-RePo
 Hello, 
  My name is BowBoy! I have a passion for coding.<br/> 
