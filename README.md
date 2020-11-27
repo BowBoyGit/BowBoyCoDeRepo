@@ -9,7 +9,7 @@ here.
 
 ### Table of Contents
 
-* allen wrenches
+* GETTING STARTED
 * gerbil feeders
 * toilet seats
 * electric heaters
