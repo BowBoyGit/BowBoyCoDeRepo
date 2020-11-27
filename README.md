@@ -8,8 +8,8 @@ https://github.com/BowBoyGit/Python3
 
 
 
-<img src="images/pylogo.png" width=100>
-<!-- ![](images/pylogo.png) -->
+<!-- <img src="images/pylogo.png" width=100>
+![](images/pylogo.png) -->
 
 
 
