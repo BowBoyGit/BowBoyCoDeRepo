@@ -3,19 +3,19 @@
 
 
 
+## Project Description:
+
+
+
+
+
+
+
+
+
+
 
 ### 01 - The Basics
-
-
-
-
-
-
-
-
-
-
-
 
 
 <img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
