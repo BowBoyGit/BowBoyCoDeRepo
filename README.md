@@ -1,11 +1,10 @@
-:snake:
 # Welcome to BowBoyGit/Python3
 
 
 
 
 
-### Python3 Basics
+### Python3 01 The Basics
 
 
 
