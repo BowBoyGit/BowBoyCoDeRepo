@@ -1,6 +1,6 @@
 # Welcome to BowBoyGit/Python3
 
-<img src="images/GitHub-Mark.png" width=100>https://github.com/BowBoyGit/Python3
+<img src="images/GitHub-Mark.png" width=50>https://github.com/BowBoyGit/Python3
 
 
 :snake:
