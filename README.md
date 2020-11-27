@@ -7,9 +7,9 @@ I will be Pushing my Python3 coding examples
 here.
 
 
-### Table of Contents
+### Folders of Contents
 
-* GETTING STARTED
+* Getting Started
 * gerbil feeders
 * toilet seats
 * electric heaters
