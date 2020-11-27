@@ -8,7 +8,7 @@
 Hello,<br/>
 My name is BowBoy<br/>
 I will be pushing my ***Python3*** coding examples here.
-:snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:<br>
+:snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:<br/>
 
 
 ##### refusing to bow to the inevitable
