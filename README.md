@@ -17,17 +17,17 @@ I will be Pushing my Python3 coding examples here.<br/>
 * Django
 *******
 
-<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
-
-*******
-
-
 Python3
 ```python
 
 print('hello world')
 
 ```
+*******
+
+<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
+
+
 
 
 
