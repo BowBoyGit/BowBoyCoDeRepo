@@ -9,6 +9,13 @@
 
 
 
+[GitHub](https://github.com/BowBoyGit/Python3)
+
+
+
+
+
+
 
 
 
@@ -18,13 +25,6 @@
 <!-- As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past. -->
-
-
-
-
-[GitHub](https://github.com/BowBoyGit/Python3)
-
-
 
 
 
