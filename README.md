@@ -1,10 +1,10 @@
 # Welcome to BowBoyGit/Python3
 
-<img src="images/pylogo.png" width=100>
+<img src="images/pylogo.png" width=100>, https://github.com/BowBoyGit/Python3
 <!-- ![](images/pylogo.png) -->
 
 
-https://github.com/BowBoyGit/Python3
+
 
 <!-- [GitHub](http://github.com) -->
 
