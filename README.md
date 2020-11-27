@@ -1,20 +1,21 @@
 # Welcome to BowBoyGit/BowBoyCoDeRepo
 
 #### BowBoyGit/BowBoyCoDeRepo
-Hello,<br/>My name is BowBoy! I have a passion for coding.<br/> 
-I will be Pushing my Python3 coding examples 
-here.
+Hello,<br/>
+My name is BowBoy! I have a passion for coding.<br/>
+I will be Pushing my Python3 coding examples here.<br/>
+
 ###### refusing to bow to the inevitable
 — John O'Hara
 
 ### I'm currently learning:
-
 * Python
 * Django
 *******
 
 ### 01 - The Basics
 
+<br/>
 
 <img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/Python3
 
