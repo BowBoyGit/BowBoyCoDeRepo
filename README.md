@@ -4,7 +4,7 @@
 <!-- ![](images/pylogo.png) -->
 
 
-http://github.com 
+https://github.com/BowBoyGit/Python3
 
 [GitHub](http://github.com)
 
