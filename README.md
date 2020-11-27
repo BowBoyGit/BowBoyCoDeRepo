@@ -7,9 +7,9 @@ here.
 ###### refusing to bow to the inevitable
 — John O'Hara
 
-### 
+### I'm currently learning:
 
-* 
+* Python
 * gerbil feeders
 * toilet seats
 * electric heaters
@@ -17,15 +17,6 @@ here.
 * juice extractor
 * shower rods and water meters
 ***
-
-
-
-
-
-
-
-
-
 
 ### 01 - The Basics
 
