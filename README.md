@@ -8,7 +8,7 @@
 Hello,<br/>
 My name is BowBoy<br/>
 I will be pushing my ***Python3*** coding examples here.
-:snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:</div>
+:snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
 
 
 ##### refusing to bow to the inevitable
@@ -28,7 +28,7 @@ print('hello world')
 ```
 *******
 
-<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/BowBoyCoDeRepo
+<img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/BowBoyCoDeRepo</div>
 
 
 
