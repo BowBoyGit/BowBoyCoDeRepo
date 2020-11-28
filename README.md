@@ -11,7 +11,7 @@
 # BowBoyGit/BowBoyCoDeRepo
 Hello,<br/>
 My name is BowBoy<br/>
-I will be pushing my ***Python3*** coding examples here.
+I will be pushing my coding examples here.
 
 *******
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
