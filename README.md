@@ -24,7 +24,7 @@ I will be pushing my coding examples here.
 
 ***Thank You to:***
 
-[Python](https://www.python.org/)
+[Python](https://www.python.org/)<br>
 [Django](https://www.djangoproject.com/)
 
 ```python
