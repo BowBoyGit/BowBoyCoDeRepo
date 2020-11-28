@@ -27,11 +27,11 @@ I will be pushing my coding examples here.
 [Python](https://www.python.org/)<br>
 [Django](https://www.djangoproject.com/)
 
-```python
+<!-- ```python
 
 print('hello world')
 
-```
+``` -->
 
 
 
