@@ -1,5 +1,7 @@
 *******
+<div align="center">
 ### Welcome to BowBoyCoDeRepo
+</div>
 *******
 <div align="center">
 <img src="images/compbowboy.png" width=300>
