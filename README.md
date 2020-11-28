@@ -3,6 +3,9 @@
 *******
 <div align="center">
 <img src="images/compbowboy.png" width=300>
+#### refusing to bow to the inevitable
+— John O'Hara
+*******
 
 ### BowBoyGit/BowBoyCoDeRepo
 Hello,<br/>
@@ -13,9 +16,7 @@ I will be pushing my ***Python3*** coding examples here.
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
 
 
-##### refusing to bow to the inevitable
-— John O'Hara
-*******
+
 
 ***I'm currently learning:***
 * Python
