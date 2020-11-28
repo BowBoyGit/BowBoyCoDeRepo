@@ -1,10 +1,5 @@
-a = 2+2
-
-
-print(abs(72.5))
-
-
-
+module_name = "abs()"
+description = ""
 
 
 
