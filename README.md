@@ -6,6 +6,7 @@
 
 #### "Refusing to Bow to the Inevitable"
 — John O'Hara
+
 *******
 
 # BowBoyGit/BowBoyCoDeRepo
@@ -14,6 +15,7 @@ My name is BowBoy<br/>
 I will be pushing my coding examples here.
 
 *******
+
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
 
 
@@ -22,6 +24,7 @@ I will be pushing my coding examples here.
 ***I'm currently learning:***
 * Python
 * Django
+
 *******
 
 Python3
@@ -30,6 +33,7 @@ Python3
 print('hello world')
 
 ```
+
 *******
 
 <img src="images/GitHub-Mark.png" width=30>https://github.com/BowBoyGit/BowBoyCoDeRepo</div>
