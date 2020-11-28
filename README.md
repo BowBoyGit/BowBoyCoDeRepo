@@ -14,6 +14,7 @@ Hello,<br/>
 My name is BowBoy<br/>
 I will be pushing my coding examples here.
 
+
 *******
 
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
@@ -21,10 +22,10 @@ I will be pushing my coding examples here.
 
 
 
-***I'm currently learning:***
-* Python
-* Django
+***Thank You to:***
 
+[Python](https://www.python.org/)
+[Django]([https://www.djangoproject.com/)
 *******
 
 Python3
