@@ -4,7 +4,7 @@
 <div align="center">
 <img src="images/compbowboy.png" width=300>
 
-#### refusing to bow to the inevitable
+#### Refusing to Bow to the Inevitable
 — John O'Hara
 *******
 
