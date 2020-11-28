@@ -1,5 +1,5 @@
 
-# Welcome to BowBoyCoDeRepo
+### Welcome to BowBoyCoDeRepo
 *******
 <div align="center">
 <img src="images/compbowboy.png" width=300>
@@ -8,7 +8,7 @@
 — John O'Hara
 *******
 
-### BowBoyGit/BowBoyCoDeRepo
+## BowBoyGit/BowBoyCoDeRepo
 Hello,<br/>
 My name is BowBoy<br/>
 I will be pushing my ***Python3*** coding examples here.
