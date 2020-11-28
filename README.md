@@ -12,6 +12,11 @@ I will be pushing my ***Python3*** coding examples here.
 *******
 :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake: :snake:
 
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
 
 ##### refusing to bow to the inevitable
 — John O'Hara
