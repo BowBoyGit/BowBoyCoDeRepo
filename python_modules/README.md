@@ -1,2 +1,2 @@
 # Python_Modules
-<img src="pythonpic.png" width=300>
+<img src="images/pythonpic.png" width=300>
