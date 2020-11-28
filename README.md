@@ -22,7 +22,7 @@ I will be pushing my coding examples here.
 
 
 
-***Thank You to:***
+***Thank You to:***<br>
 [Linux](https://www.linux.org/)<br>
 [Python](https://www.python.org/)<br>
 [Django](https://www.djangoproject.com/)
