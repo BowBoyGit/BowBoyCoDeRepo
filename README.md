@@ -34,7 +34,7 @@ I will be pushing my coding examples here.
 [Github](https://www.github.com/)<br>
 [Linux](https://www.linux.org/)<br>
 [Python](https://www.python.org/)<br>
-[Django](https://www.djangoproject.com/)
+[Django](https://www.djangoproject.com/)<br>
 [MongoDB](https://www.mongodb.com/)
 
 <!-- ```python
