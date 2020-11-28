@@ -3,6 +3,7 @@
 *******
 <div align="center">
 <img src="images/compbowboy.png" width=300>
+
 #### refusing to bow to the inevitable
 — John O'Hara
 *******
