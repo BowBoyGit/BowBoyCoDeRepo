@@ -25,7 +25,7 @@ I will be pushing my coding examples here.
 ***Thank You to:***
 
 [Python](https://www.python.org/)
-[Django]([https://www.djangoproject.com/)
+[Django](https://www.djangoproject.com/)
 *******
 
 Python3
