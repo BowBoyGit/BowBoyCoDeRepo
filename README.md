@@ -1,5 +1,5 @@
 
-#      Welcome to BowBoyGit/BowBoyCoDeRepo
+# Welcome to BowBoyCoDeRepo
 *******
 <div align="center">
 <img src="images/compbowboy.png" width=300>
