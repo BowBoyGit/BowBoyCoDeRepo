@@ -17,9 +17,9 @@ I will be pushing my ***Python3*** coding examples here.
 — John O'Hara
 *******
 
-~~~I'm currently learning:~~~
-Python
-Django
+***I'm currently learning:***
+* Python
+* Django
 *******
 
 Python3
