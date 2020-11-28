@@ -26,14 +26,14 @@ I will be pushing my coding examples here.
 
 [Python](https://www.python.org/)
 [Django](https://www.djangoproject.com/)
-*******
 
-Python3
 ```python
 
 print('hello world')
 
 ```
+
+
 
 *******
 
