@@ -8,7 +8,7 @@
 *******
 
 <div align="center">
-<img src="images/compbowboy.png" width=300>
+<img src="images/bowboycode.png" width=300>
 
 #### "Refusing to Bow to the Inevitable"
 — John O'Hara
