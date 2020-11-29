@@ -1,6 +1,6 @@
 # Python_Modules
 
-<img src="images/bowboycode.png" width=300>
+<img src="bowboycode.png" width=300>
 
 
 
