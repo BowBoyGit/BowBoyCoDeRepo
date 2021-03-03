@@ -10,9 +10,6 @@
 <div align="center">
 <img src="images/bowboycode.png" width=300>
 
-#### "Refusing to Bow to the Inevitable"
-— John O'Hara
-
 *******
 
 # BowBoyGit/BowBoyCoDeRepo
